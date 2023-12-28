@@ -1,3 +1,4 @@
+# 99.99% CODE LẤY TỪ https://github.com/Wenjun-Peng/fastformer-for-rec.git, CODE NÀY CHỈ FIX MÔI TRƯỜNG ĐỂ RUN TRÊN KAGGLE
 # Fastformer for recommandation (Unofficial)
 This example walks through the training and prediction of unilm-fastformer on MIND dataset. <br> 
 Fastformer model refers to [fastformer](https://github.com/wuch15/Fastformer) <br>
